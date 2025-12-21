@@ -1,0 +1,10 @@
+[project]
+name = "python-selenium-autotest-course"
+version = "0.1.0"
+description = "Учебный проект UI автотестов"
+requires-python = "==3.13.5"
+dependencies = [
+    "selenium==4.38.0",
+    "webdriver-manager==4.0.2",
+    "pytest==9.0.1",
+]
