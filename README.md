@@ -22,7 +22,7 @@
 
 | Урок | Тема            | Ветка                                                                                                    | Видео             |
 |------|-----------------|----------------------------------------------------------------------------------------------------------|-------------------|
-| 1    | Первый автотест | [`lesson-01`](https://github.com/anya-bug-hunter/python-selenium-autotest-course/tree/feature/lesson-01) | [YouTube](ссылка) |
+| 1    | Первый автотест | [`lesson-01`](https://github.com/anya-bug-hunter/python-selenium-autotest-course/tree/feature/lesson-01) | [YouTube](https://youtu.be/_mjob4jRNsY) |
 
 > Каждый урок - это отдельная ветка, чтобы можно было легко отслеживать развитие проекта и возвращаться к нужному уроку.
 
