@@ -24,6 +24,8 @@
 |------|-----------------|----------------------------------------------------------------------------------------------------------|-------------------|
 | 1    | Первый автотест | [`lesson-01`](https://github.com/anya-bug-hunter/python-selenium-autotest-course/tree/feature/lesson-01) | [YouTube](https://youtu.be/_mjob4jRNsY) |
 | 2    | CSS локаторы    | [`lesson-02`](https://github.com/anya-bug-hunter/python-selenium-autotest-course/tree/feature/lesson-02) | [YouTube](https://youtu.be/moe2ASnuXIU) |
+| 3    | Xpath локаторы  | [`lesson-03`](https://github.com/anya-bug-hunter/python-selenium-autotest-course/tree/feature/lesson-03) | [YouTube](https://youtu.be/SHh7SmavQF8) |
+
 
 > Каждый урок - это отдельная ветка, чтобы можно было легко отслеживать развитие проекта и возвращаться к нужному уроку.
 
